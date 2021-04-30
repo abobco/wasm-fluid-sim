@@ -22,7 +22,7 @@ This project uses [CMake](https://cmake.org/download/) for the build process, so
 cd build
 rm CMakeCache.txt
 cmake ..
-cmake -- build . --config Release
+cmake --build . --config Release
 ```
 
 ### WebAssembly (Emscripten)
@@ -33,5 +33,5 @@ Then, from your preferred terminal:
 cd build_wasm
 rm CMakeCache.txt
 emcmake cmake .
-cmake -- build . --config Release
+cmake --build . --config Release
 ```
