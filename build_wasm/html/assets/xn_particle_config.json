@@ -1,0 +1,13 @@
+{
+    "particle_radius": 0.01,
+    "interaction_radius": 0.02,
+    "gravity": [
+        0,
+        -0.00075
+    ],
+    "stiffness": 0.0006,
+    "near_stiffness": 0.00625,
+    "rest_density": 6.4,
+    "sigma": 0.8,
+    "beta": 0.9
+}

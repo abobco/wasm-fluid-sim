@@ -1,0 +1,21 @@
+# ninja log v5
+24	5522	6414550234636506	CMakeFiles/imgui_sdl.dir/C_/Code/opengl-es/fluid-sim/src/imgui_sdl.cpp.o	a2062b6fa419756d
+12	6800	6414550247592596	CMakeFiles/imgui_sdl.dir/C_/Code/opengl-es/fluid-sim/xnlib/external/imgui_draw.cpp.o	30115aab77716529
+10	11590	6414550295461521	CMakeFiles/imgui_sdl.dir/C_/Code/opengl-es/fluid-sim/xnlib/external/imgui.cpp.o	23d75c0a08f0343e
+35	3692	6414550215716525	CMakeFiles/main_sim_sdl.dir/C_/Code/opengl-es/fluid-sim/xnlib/external/imgui_demo.cpp.o	be6ecc251fad23c6
+1881	3607	6414550204176533	libopengl_impl.a	a27a2ffeaae71336
+2200	2518	6412814717524147	libimgui.a	9cc0a65c6586e3a6
+1403	8408	6414550263741210	CMakeFiles/main_sim_sdl.dir/C_/Code/opengl-es/fluid-sim/xnlib/external/imgui_draw.cpp.o	f9853a51e35e5eaf
+4	7353	6414551903323873	CMakeFiles/main_sim_sdl.dir/C_/Code/opengl-es/fluid-sim/src/main_sim_sdl.cpp.o	6fb01597ec0a7fac
+7356	20504	6414552035069040	html/main_sim_sdl.html	eb13affcaebdb3d5
+4	1165	6414550187910831	CMakeFiles/opengl_impl.dir/C_/Code/opengl-es/fluid-sim/xnlib/external/glad/src/glad.c.o	a9e2fb91f13fc80
+8	1881	6414550197866506	CMakeFiles/opengl_impl.dir/C_/Code/opengl-es/fluid-sim/xnlib/external/stb_image_impl.cpp.o	1617b87cf4fc194c
+16	1995	6414550198626529	CMakeFiles/imgui_sdl.dir/C_/Code/opengl-es/fluid-sim/xnlib/external/imgui_impl_sdl.cpp.o	e43b1d610a37b3e4
+30	1398	6414550192530827	CMakeFiles/main_sim_sdl.dir/C_/Code/opengl-es/fluid-sim/xnlib/external/imgui_impl_sdl.cpp.o	1cd0d654a26df382
+19	4252	6414550221926543	CMakeFiles/imgui_sdl.dir/C_/Code/opengl-es/fluid-sim/xnlib/external/imgui_demo.cpp.o	bdf7e323884c2f51
+27	11773	6414550297201496	CMakeFiles/main_sim_sdl.dir/C_/Code/opengl-es/fluid-sim/xnlib/external/imgui.cpp.o	1ec0b3a731ad2b0b
+11591	30144	6414550481217330	html/imgui_sdl.html	75b53fa06abc7aac
+5	2830	6414559918866460	CMakeFiles/imgui_sdl.dir/C_/Code/opengl-es/fluid-sim/src/imgui_sdl.cpp.o	a2062b6fa419756d
+8	11754	6414560005881932	CMakeFiles/main_sim_sdl.dir/C_/Code/opengl-es/fluid-sim/src/main_sim_sdl.cpp.o	6fb01597ec0a7fac
+2832	18400	6414560074688371	html/imgui_sdl.html	75b53fa06abc7aac
+11756	24740	6414560138074914	html/main_sim_sdl.html	eb13affcaebdb3d5

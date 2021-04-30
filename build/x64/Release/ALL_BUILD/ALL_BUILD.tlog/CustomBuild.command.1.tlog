@@ -1,0 +1,10 @@
+^C:\CODE\OPENGL-ES\FLUID-SIM\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Code/opengl-es/fluid-sim -BC:/Code/opengl-es/fluid-sim/build --check-stamp-file C:/Code/opengl-es/fluid-sim/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

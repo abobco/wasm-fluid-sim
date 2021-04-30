@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Code\opengl-es\fluid-sim\build\CMakeFiles\4e94acd4f9c8aafbb45deaf17d6e9b09\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{131F516D-67A0-3C16-A1A1-8D40D137FE31}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
